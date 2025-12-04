@@ -17,7 +17,9 @@ I enjoy building polished, user‑centric applications and continuously refining
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **UI/UX:** Responsive layouts, hooks, memoization, edge‑case handling  
 - **Backend/Other:** Java, OOP fundamentals, MVC architecture  
-- **Mobile:** Android (XML, Jetpack Compose), Firebase integration  
+- **Mobile:** Android (XML, Jetpack Compose), Firebase integration
+- **AI/ML:** Python, TensorFlow, OpenCV, YOLOv8, CNN, Data Science, ML model integration
+
 
 ---
 ✨ Always learning, iterating, and refining solutions for real‑world usability.
